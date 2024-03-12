@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-using-DNN
 
-I have employed Federated learning for my Self-project titled "Heart Disease Prediction". It is a different approach to training machine learning models as compared to Centralized learning. Federated learning involves training models across multiple decentralized devices without exchanging raw data samples
+This Self-project titled "Heart Disease Prediction" project aims to provide a method for heart disease prediction. The model predicts if the patients have a heart disease or not. The dataset (available in repository) contains more than 10 features. After data visualisation, I end up with 8 features those are important for prediction. I used Federated learning on the DNN for this task and achieved around 80% accuracy.
 
 A few reasons why federated learning gives lesser accuracy compared to centralized learning: **Data Heterogeneity**, **Limited Communication**, **Limited Computational Resources**, **Differential Privacy(1)** & **Model Aggregation Challenges(2)**.
 
