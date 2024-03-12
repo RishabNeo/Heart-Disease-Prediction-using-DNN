@@ -2,6 +2,9 @@
 
 This Self-project titled "Heart Disease Prediction" project aims to provide a method for heart disease prediction. The model predicts if the patients have a heart disease or not. The dataset (available in repository) contains more than 10 features. After data visualisation, I end up with 8 features those are important for prediction. I used Federated learning on the DNN for this task and achieved around 80% accuracy.
 
+# Model Architecture
+
+
 A few reasons why federated learning gives lesser accuracy compared to centralized learning: **Data Heterogeneity**, **Limited Communication**, **Limited Computational Resources**, **Differential Privacy(1)** & **Model Aggregation Challenges(2)**.
 
 **(1)** 'Differential Privacy' is a technique to ensure privacy protection for individual data contributors. These privacy-preserving mechanisms can introduce noise or randomness into the training process, which may degrade the accuracy of the resulting model compared to centralized learning.
