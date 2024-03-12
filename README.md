@@ -13,4 +13,5 @@ Despite these challenges, I would prefer federated learning because it addresses
 Additionally, federated learning enables collaborative model training across distributed devices, allowing for broader data representation and potentially better generalization to diverse user populations.
 
 # Model Architecture
+![MA](https://github.com/RishabNeo/Heart-Disease-Prediction-using-DNN/blob/main/Images/Model%20Architecture.png)
 
