@@ -8,4 +8,4 @@ Although centralized learning provides slightly higher accuracy, it is at the co
 ![MA](https://github.com/RishabNeo/Heart-Disease-Prediction-using-DNN/blob/main/Images/Model%20Architecture.png)
 
 # Model accuracy vs number of epochs
-![plot](https://github.com/RishabNeo/Heart-Disease-Prediction-using-DNN/blob/main/Images/plot.png)
+![plot](https://github.com/RishabNeo/Heart-Disease-Prediction-using-DNN/blob/main/Images/plot%20(HD).png)
